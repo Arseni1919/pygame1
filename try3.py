@@ -1,6 +1,7 @@
 # Import the pygame module
 import pygame
 import sys
+# bla bla
 
 # Import random for random numbers
 import random
